@@ -3,7 +3,7 @@ title: "Rod's Blog"
 author:
   name: Rod
   email: rod.vial@outlook.com
-description: "Great site about Jekyll on GH-Pages."
+description: "Powered by Jekyll"
 
 # Build settings
 remote_theme: jekyll/minima
